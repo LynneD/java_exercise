@@ -1,0 +1,3 @@
+A map cannot contain duplicate keys: Each key can map to at most one value. It models the mathematical function abstraction.
+The Java platform contains three general-purpose Map implementations: HashMap, TreeMap, and LinkedHashMap. 
+Their behavior and performance are precisely analogous to HashSet, TreeSet, and LinkedHashSet, as described in The Set Interface section.
